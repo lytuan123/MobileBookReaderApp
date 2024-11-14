@@ -1,5 +1,5 @@
 name: mobile_book_reader_app
-description: A mobile book reader app for PRC files
+description: A mobile book reader app for PDF files
 version: 1.0.0+1
 
 environment:
@@ -8,6 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_pdfview: ^2.0.0
 
 flutter:
   assets:
